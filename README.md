@@ -19,3 +19,7 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-01-setup
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-02-first-cest
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-03-data-provider
+
+
