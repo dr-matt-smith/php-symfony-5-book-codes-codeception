@@ -26,11 +26,12 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-05-testing-databases
 
-- https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-06-testing-roles
-
-
-
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-06-counting-items-in-database
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-07-testing-roles
+
+
+
 
 
 
