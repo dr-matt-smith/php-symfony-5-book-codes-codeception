@@ -30,6 +30,11 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-07-testing-roles
 
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-08-testing-user-creation
+
+
+
+
 
 
 
