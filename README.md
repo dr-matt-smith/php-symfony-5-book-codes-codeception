@@ -32,6 +32,8 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-08-testing-user-creation
 
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-codeception-09-user-creation-with-have-in-repo
+
 
 
 
